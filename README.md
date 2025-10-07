@@ -1,18 +1,18 @@
 # Hi, I’m Ayomiku Olarewaju Almaroof 👋  
 
-💻 **Full-Stack Developer | Automation Enthusiast | Problem Solver**  
+💻 **Full-Stack Developer | Automation Engineer | Problem Solver**  
 
-I’m a full-stack developer passionate about helping businesses scale faster by building **functional, user-friendly, and high-performing web solutions**.  
-I combine modern frontend frameworks, powerful backend systems, and **no-code automation tools** to deliver seamless digital experiences.  
+I’m a full-stack developer helping businesses scale faster by building **functional, user-friendly, and high-performing web solutions**.  
+I bridge **frontend, backend, and automation workflows** to deliver seamless systems that enhance efficiency, reduce manual effort, and improve digital performance.
 
 ---
 
 ### 🚀 Current Focus  
-- Building scalable **Next.js + Node.js** projects with clean architecture  
-- Exploring **workflow automation** with **N8n** and **Zapier**  
-- Developing fast, accessible, and responsive user interfaces  
-- Strengthening my **TypeScript** and **React** ecosystem skills  
-- Integrating **No-code tools** into developer workflows for efficiency  
+- Building **scalable full-stack applications** using **Next.js**, **Node.js**, and **Prisma**  
+- Designing and automating workflows with **N8n**, **Zapier**, and custom **API integrations**  
+- Architecting **efficient data models** with **SQL** and **NoSQL** databases  
+- Delivering **responsive, accessible**, and **high-performance** user experiences  
+- Collaborating on projects that require **end-to-end problem-solving** and **business-driven innovation**
 
 ---
 
@@ -21,13 +21,15 @@ I combine modern frontend frameworks, powerful backend systems, and **no-code au
 | **Category** | **Technologies / Tools** |
 |---------------|---------------------------|
 | **Frontend**  | HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React.js, Next.js |
-| **Backend**   | Node.js, Java |
-| **Tools**     | Git & GitHub, GitHub Actions, N8n, Zapier, Figma |
+| **Backend**   | Node.js, Java, Prisma |
+| **Databases** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB) |
+| **Automation**| N8n, Zapier, Make (Integromat), API Integrations |
+| **Tools**     | Git & GitHub, GitHub Actions, Figma, VS Code |
 
 ---
 
 ### 💡 Core Values  
-> I value **problem-solving**, **creativity**, and **liveliness** — and I’m big on **accessibility**, **performance**, and **maintainable code**.  
+> I value **problem-solving**, **creativity**, and **precision** — and I’m big on **accessibility**, **performance**, and **scalable architecture**.  
 
 ---
 
@@ -38,4 +40,4 @@ I combine modern frontend frameworks, powerful backend systems, and **no-code au
 
 ---
 
-✨ _"Building ideas into scalable digital experiences."_  
+✨ _"Turning complex ideas into simple, scalable, and automated digital experiences."_  
