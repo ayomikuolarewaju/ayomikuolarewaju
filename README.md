@@ -20,7 +20,7 @@ I bridge **frontend, backend, and automation workflows** to deliver seamless sys
 
 | **Category** | **Technologies / Tools** |
 |---------------|---------------------------|
-| **Frontend**  | HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React.js, Next.js |
+| **Frontend**  | HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React.js, nest.js, Next.js |
 | **Backend**   | Node.js, Java, Prisma |
 | **Databases** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB) |
 | **Automation**| N8n, Zapier, Make (Integromat), API Integrations |
@@ -36,7 +36,8 @@ I bridge **frontend, backend, and automation workflows** to deliver seamless sys
 ### 🌍 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayomikuolarewaju)  
 - 🧑‍💻 [GitHub](https://github.com/ayomikuolarewaju)  
-- ✉️ Email: ayomikualmaroof@gmail.com  
+- ✉️ Email: almaroofolarewaju@gmail.com
+- ✉️ Email: ayomiku@ymail.com  
 
 ---
 
