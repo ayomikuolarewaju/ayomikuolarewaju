@@ -20,7 +20,7 @@ I bridge **frontend, backend, and automation workflows** to deliver seamless sys
 
 | **Category** | **Technologies / Tools** |
 |---------------|---------------------------|
-| **Frontend**  | HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React.js, nest.js, Next.js |
+| **Frontend**  | HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React.js, Nest.js, Next.js |
 | **Backend**   | Node.js, Java, Prisma |
 | **Databases** | SQL (PostgreSQL, MySQL), NoSQL (MongoDB) |
 | **Automation**| N8n, Zapier, Make (Integromat), API Integrations |
