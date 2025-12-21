@@ -8,7 +8,7 @@ I bridge **frontend, backend, and automation workflows** to deliver seamless sys
 ---
 
 ### 🚀 Current Focus  
-- Building **scalable full-stack applications** using **Next.js**, **Node.js**, and **Prisma**  
+- Building **scalable full-stack applications** using **Next.js**, **Nest.js**, **Node.js**, and **Prisma**  
 - Designing and automating workflows with **N8n**, **Zapier**, and custom **API integrations**  
 - Architecting **efficient data models** with **SQL** and **NoSQL** databases  
 - Delivering **responsive, accessible**, and **high-performance** user experiences  
