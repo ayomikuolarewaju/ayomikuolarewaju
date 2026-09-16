@@ -1,4 +1,4 @@
-[[# Hi, I’m Ayomiku Olarewaju Almaroof 👋  
+# Hi, I’m Ayomiku Olarewaju Almaroof 👋  
 
 💻 **Full-Stack Developer | Automation Engineer | Problem Solver**  
 
