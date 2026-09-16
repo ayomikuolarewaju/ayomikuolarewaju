@@ -1,4 +1,4 @@
-# Hi, I’m Ayomiku Olarewaju Almaroof 👋  
+[[# Hi, I’m Ayomiku Olarewaju Almaroof 👋  
 
 💻 **Full-Stack Developer | Automation Engineer | Problem Solver**  
 
@@ -42,3 +42,4 @@ I bridge **frontend, backend, and automation workflows** to deliver seamless sys
 ---
 
 ✨ _"Turning complex ideas into simple, scalable, and automated digital experiences."_  
+https://ayomikuolarewaju.github.io/
